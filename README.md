@@ -2,10 +2,6 @@
 
 Este é um programa de console simples, escrito em Java, focado nos princípios de Programação Orientada a Objetos (POO). O programa solicita ao usuário a largura e a altura de um retângulo e, em seguida, calcula e exibe sua área, perímetro e diagonal.
 
-## Nota Importante sobre Nomenclatura
-
-Apesar do nome do repositório ser "Triangle", o código-fonte (`Program.java` e `entities/rectangle.java`) implementa **exclusivamente** os cálculos para um **Retângulo** (Rectangle). Este `README.md` foi atualizado para descrever com precisão a funcionalidade do código.
-
 ## Funcionalidades
 
   * **Entrada de Dados:** Solicita ao usuário que insira a largura (`width`) e a altura (`height`) do retângulo.
